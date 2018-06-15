@@ -1,0 +1,28 @@
+A list of links you might find useful:
+
+
+Documentation:
+
+https://www.raspberrypi.org/documentation/raspbian/
+https://www.raspberrypi.org/documentation/configuration/
+https://www.raspberrypi.org/documentation/linux/
+
+https://www.raspberrypi.org/documentation/usage/python/
+
+https://www.raspberrypi.org/documentation/hardware/
+https://www.raspberrypi.org/documentation/usage/gpio/README.md
+https://www.raspberrypi.org/documentation/usage/camera/README.md
+
+
+Other:
+
+https://github.com
+https://stackoverflow.com
+https://www.wikipedia.org
+https://www.python.org
+https://www.khanacademy.org
+
+(May need to pay for these:
+https://www.udemy.com
+https://www.codecademy.com/catalog/language/python
+)
