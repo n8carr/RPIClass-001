@@ -5,6 +5,7 @@ boxsize = 200
 caught = False
 score = 0
 
+
 #functions that are called on key presses
 def up():
    mouse.forward(10)
@@ -43,11 +44,14 @@ cat.color("red")
 mouse.penup()
 mouse.goto(100,100)
 
+#set background
+#window.bgpic("bg.jpg")
+
 #add key listeners
-window.onkeypress(up, "Up")
-window.onkeypress(left, "Left")
-window.onkeypress(right, "Right")
-window.onkeypress(back, "Down")
+window.onkeypress(up, "w")
+window.onkeypress(left, "a")
+window.onkeypress(right, "d")
+window.onkeypress(back, "s")
 window.onkeypress(quitTurtles, "Escape")
 
 difficulty = window.numinput("Difficulty", "Enter a difficulty from easy (1), for hard (5) ", minval=1, maxval=5)
